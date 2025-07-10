@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "id": "addon-template",
+  "id": "ShoXxAddon",
   "version": "${version}",
-  "name": "Addon Template",
-  "description": "An addon template for Meteor Client addons.",
+  "name": "ShoXxAddon",
+  "description": "a mod for 2b2t thats is mostly ai generated",
   "authors": [
-    "seasnail"
+    "ShoXxPyrt"
   ],
   "contact": {
     "sources": "https://github.com/MeteorDevelopment/meteor-addon-template"
